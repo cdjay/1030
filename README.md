@@ -1,1 +1,3 @@
-# Python 06
+# 实验楼Python楼+课程06期
+## 2018-03-23 
+### Updata P1 and P2
