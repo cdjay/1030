@@ -82,17 +82,14 @@ class IncomeTaxCalculator:
             6:(0.35,5505),
             7:(0.45,13505)
         }
-        out=[]
+        self.out=[]
         for x in range(int(len(c)/2)):
-            out.append(c[x*2])
-
-            out.append(c[x*2+1])
-
+            self.out.append(str(int(c[x*2])))
+            self.out.append("%.2f"%c[x*2+1])
             if c[x*2+1] <cfg.get('JiShuL'):stax=cfg.get('JiShuL')*social_tax
             elif c[x*2+1] >cfg.get('JiShuH'):stax=cfg.get('JiShuH')*social_tax
             else:stax=c[x*2+1] *social_tax
-            out.append(stax)
-
+            self.out.append("%.2f"%stax)
             ptax=c[x*2+1] -stax-3500
             if ptax<0:ptax=0
             if ptax > 80000:level_count=7
@@ -103,17 +100,18 @@ class IncomeTaxCalculator:
             elif ptax > 1500: level_count = 2
             else:level_count = 1
             ptax=ptax*level[level_count][0]-level[level_count][1]
-            out.append(ptax)
+            self.out.append("%.2f"%ptax)
+            self.out.append("%.2f"%(c[x*2+1]-stax-ptax))
+        return self.out
+    def export(self):
+        self.result=self.calc_for_all_userdata()
+        out=[]
+        for rows in range(int(len(self.result)/5)):
+            out.append(self.result[rows*5:rows*5+5])
 
-            out.append(c[x*2+1]-stax-ptax)
-
-        for _ in range(5):
-            print("{},{:.2f},{:.2f},{:.2f},{:.2f}".format(int(out.pop(0)),out.pop(0),out.pop(0),out.pop(0),out.pop(0)))
- 
-    def export(self,default='csv'):
-        result=self.calc_for_all_userdata()
-
-
+        with open(path.out_file,'w',newline="") as f:
+            writer=csv.writer(f)
+            writer.writerows(out)
 
 if __name__ == "__main__":
     path=Args()
