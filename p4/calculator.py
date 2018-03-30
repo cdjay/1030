@@ -1,4 +1,4 @@
-# ! /usr/bin/env python3
+# !usr/bin/env python3
 # ! -*- coding:utf8 -*-
 
 import sys
@@ -39,7 +39,6 @@ class Args:
             except:
                 print("Error: 没有输入足够的参数 请输入 [-h] 或者 [--help] 查看使用帮助 ")
 
-
 # 获取税率配置 (  config 字典  )
 class Tax:
 
@@ -61,7 +60,6 @@ class Tax:
 
     def get(self, name):
         return self.config[name]
-
 
 # 获取用户原始数据 (  data 字典  )
 class Staff:
@@ -135,7 +133,6 @@ class IncomeTaxCalculator:
                 gsje=self.GS(pay,sbje)
                 out="{},{:.2f},{:.2f},{:.2f},{:.2f}".format(name,pay,sbje,gsje,pay-sbje-gsje).split(',')
                 csv_writer.writerow(out)
-
 
 
 if __name__ == "__main__":

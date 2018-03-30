@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0600b34e-c1fc-4096-a619-dabb2d574c7a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/p4/calculator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p4/gongzi.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p4/test.cfg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p4/user.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p5/calculator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p5/gongzi.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p5/test.cfg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/p5/user.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/temp.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/1030.iml" afterPath="$PROJECT_DIR$/.idea/1030.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/p3/calculator.py" afterPath="$PROJECT_DIR$/p3/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p3/gongzi.csv" afterPath="$PROJECT_DIR$/p3/gongzi.csv" />
+      <change beforePath="$PROJECT_DIR$/p4/calculator.py" afterPath="$PROJECT_DIR$/p4/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p4/gongzi.csv" afterPath="$PROJECT_DIR$/p4/gongzi.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,35 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="calculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/p4/calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="138" column="9" lean-forward="true" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
               <folding>
-                <element signature="e#50#60#0" expanded="true" />
-                <element signature="e#2643#3060#0" expanded="false" />
+                <element signature="e#48#58#0" expanded="true" />
+                <element signature="e#188#1201#0" expanded="false" />
+                <element signature="e#1244#1773#0" expanded="false" />
+                <element signature="e#1818#2271#0" expanded="false" />
+                <element signature="e#2312#3836#0" expanded="false" />
+                <element signature="e#2639#3056#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gongzi.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p4/gongzi.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p4/test.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +70,7 @@
         <option value="$PROJECT_DIR$/p4/test.cfg" />
         <option value="$PROJECT_DIR$/p3/calculator.py" />
         <option value="$PROJECT_DIR$/p4/user.csv" />
+        <option value="$PROJECT_DIR$/p3/gongzi.csv" />
         <option value="$PROJECT_DIR$/p4/gongzi.csv" />
         <option value="$PROJECT_DIR$/p4/calculator.py" />
       </list>
@@ -324,7 +310,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40089586" sideWeight="0.5554885" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.4855247" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40089586" sideWeight="0.44451147" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40089586" sideWeight="0.44451147" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -372,8 +358,12 @@
         <state relative-caret-position="234">
           <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
-            <element signature="e#50#60#0" expanded="true" />
-            <element signature="e#2643#3060#0" expanded="false" />
+            <element signature="e#48#58#0" expanded="true" />
+            <element signature="e#188#1201#0" expanded="false" />
+            <element signature="e#1244#1773#0" expanded="false" />
+            <element signature="e#1818#2271#0" expanded="false" />
+            <element signature="e#2312#3836#0" expanded="false" />
+            <element signature="e#2639#3056#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -391,8 +381,12 @@
         <state relative-caret-position="234">
           <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
-            <element signature="e#50#60#0" expanded="true" />
-            <element signature="e#2643#3060#0" expanded="false" />
+            <element signature="e#48#58#0" expanded="true" />
+            <element signature="e#188#1201#0" expanded="false" />
+            <element signature="e#1244#1773#0" expanded="false" />
+            <element signature="e#1818#2271#0" expanded="false" />
+            <element signature="e#2312#3836#0" expanded="false" />
+            <element signature="e#2639#3056#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -456,21 +450,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/p3/calculator_bak.py" />
-    <entry file="file://$PROJECT_DIR$/p3/gongzi.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p1/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -505,26 +484,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p4/test.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p5/user.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p4/user.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -539,21 +502,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/p4/test.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p4/user.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p3/gongzi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/p4/gongzi.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/p4/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="138" column="9" lean-forward="true" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
           <folding>
-            <element signature="e#50#60#0" expanded="true" />
-            <element signature="e#2643#3060#0" expanded="false" />
+            <element signature="e#48#58#0" expanded="true" />
+            <element signature="e#188#1201#0" expanded="false" />
+            <element signature="e#1244#1773#0" expanded="false" />
+            <element signature="e#1818#2271#0" expanded="false" />
+            <element signature="e#2312#3836#0" expanded="false" />
+            <element signature="e#2639#3056#0" expanded="false" />
           </folding>
         </state>
       </provider>
