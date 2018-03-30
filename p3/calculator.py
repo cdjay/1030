@@ -1,8 +1,10 @@
 import sys
 import csv
 
+# 参数处理
 class Args:
 
+    # 初始化
     def __init__(self):
         self.args=sys.argv[1:]
 
@@ -24,7 +26,7 @@ class Args:
         except:
             print("error:No '-o' path for User")
 
-
+# 获取税率设置
 class Config:
 
     def __init__(self):
@@ -45,7 +47,7 @@ class Config:
     def get(self,name):
         return self.config[name]
 
-
+# 获取用户原始数据
 class UserData:
 
     def __init__(self):
@@ -68,6 +70,7 @@ class UserData:
            print("error:userdata is not int")
         return userdata
 
+#计算工资
 class IncomeTaxCalculator:
 
     def calc_for_all_userdata(self):
@@ -103,8 +106,10 @@ class IncomeTaxCalculator:
             self.out.append("%.2f"%ptax)
             self.out.append("%.2f"%(c[x*2+1]-stax-ptax))
         return self.out
+
     def export(self):
         self.result=self.calc_for_all_userdata()
+
         out=[]
         for rows in range(int(len(self.result)/5)):
             out.append(self.result[rows*5:rows*5+5])
@@ -112,6 +117,7 @@ class IncomeTaxCalculator:
         with open(path.out_file,'w',newline="") as f:
             writer=csv.writer(f)
             writer.writerows(out)
+
 
 if __name__ == "__main__":
     path=Args()
