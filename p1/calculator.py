@@ -12,4 +12,4 @@ try:
     elif cash >=55000 and cash < 80000:print("{:.2f}".format(cash*0.35-5505))
     elif cash >=80000:print("{:.2f}".format(cash*0.45-13505))
 except:
-    print("Parameter Error")
+    print("Parameter Error4")
