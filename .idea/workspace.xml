@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e731b2-7d6a-41fd-a7dd-9439953e8c2a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/p4/ex.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/1030.iml" afterPath="$PROJECT_DIR$/.idea/1030.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/p6/news/app.py" afterPath="$PROJECT_DIR$/p6/news/app.py" />
+      <change beforePath="$PROJECT_DIR$/p1/calculator.py" afterPath="$PROJECT_DIR$/week1/p1/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p2/calculator.py" afterPath="$PROJECT_DIR$/week1/p2/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p3/calculator.py" afterPath="$PROJECT_DIR$/week1/p3/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p3/gongzi.csv" afterPath="$PROJECT_DIR$/week1/p4/gongzi.csv" />
+      <change beforePath="$PROJECT_DIR$/p3/test.cfg" afterPath="$PROJECT_DIR$/week1/p4/test.cfg" />
+      <change beforePath="$PROJECT_DIR$/p3/user.csv" afterPath="$PROJECT_DIR$/week1/p5/user.csv" />
+      <change beforePath="$PROJECT_DIR$/p4/calculator.py" afterPath="$PROJECT_DIR$/week1/p4/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p4/ex.py" afterPath="$PROJECT_DIR$/week1/p4/ex.py" />
+      <change beforePath="$PROJECT_DIR$/p4/gongzi.csv" afterPath="$PROJECT_DIR$/week1/p3/gongzi.csv" />
+      <change beforePath="$PROJECT_DIR$/p4/test.cfg" afterPath="$PROJECT_DIR$/week1/p3/test.cfg" />
+      <change beforePath="$PROJECT_DIR$/p4/user.csv" afterPath="$PROJECT_DIR$/week1/p4/user.csv" />
+      <change beforePath="$PROJECT_DIR$/p5/calculator.py" afterPath="$PROJECT_DIR$/week1/p5/calculator.py" />
+      <change beforePath="$PROJECT_DIR$/p5/gongzi.csv" afterPath="$PROJECT_DIR$/week1/p5/gongzi.csv" />
+      <change beforePath="$PROJECT_DIR$/p5/test.cfg" afterPath="$PROJECT_DIR$/week1/p5/test.cfg" />
+      <change beforePath="$PROJECT_DIR$/p5/user.csv" afterPath="$PROJECT_DIR$/week1/p3/user.csv" />
+      <change beforePath="$PROJECT_DIR$/p6/files/helloshiyanlou.json" afterPath="$PROJECT_DIR$/week2/p6/files/helloshiyanlou.json" />
+      <change beforePath="$PROJECT_DIR$/p6/files/helloworld.json" afterPath="$PROJECT_DIR$/week2/p6/files/helloworld.json" />
+      <change beforePath="$PROJECT_DIR$/p6/news/app.py" afterPath="$PROJECT_DIR$/week2/p6/news/app.py" />
+      <change beforePath="$PROJECT_DIR$/p6/news/templates/404.html" afterPath="$PROJECT_DIR$/week2/p6/news/templates/404.html" />
+      <change beforePath="$PROJECT_DIR$/p6/news/templates/base.html" afterPath="$PROJECT_DIR$/week2/p6/news/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/p6/news/templates/file.html" afterPath="$PROJECT_DIR$/week2/p6/news/templates/file.html" />
+      <change beforePath="$PROJECT_DIR$/p6/news/templates/index.html" afterPath="$PROJECT_DIR$/week2/p6/news/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,48 +37,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="calculator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p4/calculator.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1548">
-              <caret line="89" column="24" lean-forward="false" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+            <state relative-caret-position="36">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p4/ex.py">
+      <file leaf-file-name="file.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/file.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4860">
-              <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
-              <folding>
-                <element signature="e#555#565#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p6/news/templates/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p6/news/app.py">
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,6 +97,10 @@
         <option value="$PROJECT_DIR$/p4/calculator.py" />
         <option value="$PROJECT_DIR$/ex.py" />
         <option value="$PROJECT_DIR$/p6/news/app.py" />
+        <option value="$PROJECT_DIR$/week2/p6/news/templates/404.html" />
+        <option value="$PROJECT_DIR$/week2/p6/news/templates/index.html" />
+        <option value="$PROJECT_DIR$/week2/p6/news/app.py" />
+        <option value="$PROJECT_DIR$/week2/p6/news/templates/file.html" />
       </list>
     </option>
   </component>
@@ -107,6 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,28 +140,32 @@
             <path>
               <item name="1030" type="b2602c69:ProjectViewProjectNode" />
               <item name="1030" type="462c0819:PsiDirectoryNode" />
-              <item name="p4" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1030" type="b2602c69:ProjectViewProjectNode" />
               <item name="1030" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
               <item name="p6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1030" type="b2602c69:ProjectViewProjectNode" />
               <item name="1030" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
               <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1030" type="b2602c69:ProjectViewProjectNode" />
               <item name="1030" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
               <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1030" type="b2602c69:ProjectViewProjectNode" />
               <item name="1030" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
               <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="news" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
@@ -147,16 +174,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\1030\week1" />
+      <recent name="D:\python\1030\week2" />
       <recent name="D:\python\1030\p4" />
     </key>
   </component>
@@ -172,7 +199,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex (1)">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/p6/news" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1030" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/p6/news/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,16 +272,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.calculator" />
       <item index="1" class="java.lang.String" itemvalue="Python.ex" />
       <item index="2" class="java.lang.String" itemvalue="Python.ex (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.app" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex" />
-        <item index="2" class="java.lang.String" itemvalue="Python.calculator" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex" />
+        <item index="3" class="java.lang.String" itemvalue="Python.calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -286,27 +333,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/p4/calculator.py">
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="123" column="19" lean-forward="false" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/p4/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1548">
           <caret line="89" column="24" lean-forward="false" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p4/ex.py">
+    <entry file="file://$PROJECT_DIR$/week1/p4/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4860">
           <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
-          <folding>
-            <element signature="e#555#565#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/news/templates/404.html">
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -314,12 +391,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/news/app.py">
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/p4/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="89" column="24" lean-forward="false" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/p4/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4860">
+          <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -380,55 +489,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p4/calculator.py">
+    <entry file="file://$PROJECT_DIR$/week1/p4/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1548">
           <caret line="89" column="24" lean-forward="false" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/files/helloworld.json">
+    <entry file="file://$PROJECT_DIR$/week2/p6/files/helloworld.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/files/helloshiyanlou.json">
+    <entry file="file://$PROJECT_DIR$/week2/p6/files/helloshiyanlou.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p4/ex.py">
+    <entry file="file://$PROJECT_DIR$/week1/p4/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4860">
           <caret line="272" column="10" lean-forward="false" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
-          <folding>
-            <element signature="e#555#565#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/news/templates/404.html">
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p6/news/app.py">
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/p6/news/templates/file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
