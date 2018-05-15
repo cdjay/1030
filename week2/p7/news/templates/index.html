@@ -1,0 +1,24 @@
+<! DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> shiyanlou </title>
+        <style tyep="text/css">
+            div{
+                width:500px;
+                height:500px;
+                margin: 0 auto;
+            }
+        </style>
+    </head>
+<body>
+    <div>
+        <h1>文件列表</h1>
+        {% for url in files %}
+            <h3><a href ='/files/{{url}}' >{{url}}</a></h3>
+        {% endfor %}
+    </div>
+</body>
+
+</html>

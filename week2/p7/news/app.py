@@ -1,12 +1,10 @@
 import os
-import platform
 import json
 from flask import Flask
 from flask import render_template , abort
 
 app= Flask(__name__)
-if platform.system()=="Windows":filespath='../files'
-else:filespath='./files/'
+filespath='../files'
 
 def getfiles(path):
     # 返回所有文件名(带后缀)
@@ -24,7 +22,7 @@ def index():
 def showjson(filename):
     if filename not in getfiles(filespath):
         abort(404)
-    with open("{}{}.json".format(filespath,filename),'r') as file:
+    with open(f"../files/{filename}.json",'r') as file:
         content=json.loads(file.read())
     return render_template('file.html',content=content)
 
